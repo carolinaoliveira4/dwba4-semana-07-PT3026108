@@ -6,26 +6,6 @@ body {
   height: 100%;
 }
 
-.seja {
-  width: 560px;
-  height: 315px;
-  border-radius: 50%;
-  display: block;
-  margin: 0 auto;
-}
-
-.meio {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100%
-}
-
-.logo {
-  background-color: green;
-}
-
 .main>ul {
 
   display: flex;
@@ -50,4 +30,3 @@ body {
   height: 50px;
 
 }
-
